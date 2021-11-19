@@ -20,5 +20,8 @@
     ],
     "bugs": {
         "url": "https://github.com/japandotorg/videolinkapi/issues"
+    },
+    "devDependencies": {
+        "mocha": "^9.1.3"
     }
 }
