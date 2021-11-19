@@ -1,0 +1,24 @@
+{
+    "name": "videolinkapi",
+    "version": "1.0.0",
+    "description": "Fetch video downloading URL form any site",
+    "main": "index.js",
+    "author": "Lemon Rose <yash.kul69@gmail.com> (https://japandotorg.me)",
+    "license": "MIT",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/japandotorg/videolinkapi.git"
+    },
+    "keywords": [
+        "youtube video download",
+        "instagram video download",
+        "facebook video download",
+        "twitter video download"
+    ],
+    "bugs": {
+        "url": "https://github.com/japandotorg/videolinkapi/issues"
+    }
+}
